@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Composition",
+            "request": "launch",
+            "mainClass": "OOP.Composition",
+            "projectName": "Java_5533332c"
+        },
+        {
+            "type": "java",
+            "name": "Abstraction",
+            "request": "launch",
+            "mainClass": "OOP.Abstraction",
+            "projectName": "Java_5533332c"
+        },
+        {
+            "type": "java",
+            "name": "Polymorphism",
+            "request": "launch",
+            "mainClass": "OOP.Polymorphism",
+            "projectName": "Java_5533332c"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance",
+            "request": "launch",
+            "mainClass": "OOP.Inheritance",
+            "projectName": "Java_5533332c"
+        },
+        {
+            "type": "java",
+            "name": "Abstracts",
+            "request": "launch",
+            "mainClass": "OOP.Abstracts",
+            "projectName": "Java_5533332c"
+        },
+        {
+            "type": "java",
+            "name": "SecondAbstracts",
+            "request": "launch",
+            "mainClass": "OOP.SecondAbstracts",
+            "projectName": "Java_5533332c"
+        },
+        {
+            "type": "java",
+            "name": "Constructors",
+            "request": "launch",
+            "mainClass": "OOP.Constructors",
+            "projectName": "Java_5533332c"
+        },
+        {
+            "type": "java",
             "name": "StaticPublic",
             "request": "launch",
             "mainClass": "OOP.StaticPublic",
