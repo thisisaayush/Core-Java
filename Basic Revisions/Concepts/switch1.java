@@ -1,3 +1,4 @@
+package Concepts;
 public class switch1 {
     public static void main(String[] arg){
         int day = 7;
