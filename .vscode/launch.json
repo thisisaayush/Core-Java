@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Inheritance.IntermediateInheritance.Main",
+            "projectName": "Java_5533332c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Inheritance.BasicInheritance.Main",
             "projectName": "Java_5533332c"
         },
