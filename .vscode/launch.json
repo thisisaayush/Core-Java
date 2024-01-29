@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringBuilderExamples",
+            "request": "launch",
+            "mainClass": "Strings.StringBuilderExamples",
+            "projectName": "Java_5533332c"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilderExmples",
+            "request": "launch",
+            "mainClass": "Strings.StringBuilderExmples",
+            "projectName": "Java_5533332c"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilder",
+            "request": "launch",
+            "mainClass": "Strings.StringBuilder",
+            "projectName": "Java_5533332c"
+        },
+        {
+            "type": "java",
+            "name": "StringMethod",
+            "request": "launch",
+            "mainClass": "Strings.StringMethod",
+            "projectName": "Java_5533332c"
+        },
+        {
+            "type": "java",
             "name": "methodOverriding",
             "request": "launch",
             "mainClass": "Methods.methodOverriding",
