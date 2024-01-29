@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Constructors.Main",
+            "projectName": "Java_5533332c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Encapsulation.Account.Main",
             "projectName": "Java_5533332c"
         },
