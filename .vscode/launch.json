@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Inheritance.Main",
+            "projectName": "Java_5533332c"
+        },
+        {
+            "type": "java",
             "name": "Composition",
             "request": "launch",
             "mainClass": "OOP.Composition",
