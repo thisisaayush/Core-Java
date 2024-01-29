@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "methodOverriding",
+            "request": "launch",
+            "mainClass": "Methods.methodOverriding",
+            "projectName": "Java_5533332c"
+        },
+        {
+            "type": "java",
+            "name": "methodOverloading",
+            "request": "launch",
+            "mainClass": "Methods.methodOverloading",
+            "projectName": "Java_5533332c"
+        },
+        {
+            "type": "java",
+            "name": "thisvssupper",
+            "request": "launch",
+            "mainClass": "Inheritance.thisvssupper",
+            "projectName": "Java_5533332c"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Inheritance.IntermediateInheritance.Main",
