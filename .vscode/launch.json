@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OOPPartTwo.Composition.Main",
+            "projectName": "Java_5533332c"
+        },
+        {
+            "type": "java",
             "name": "StringBuilderExamples",
             "request": "launch",
             "mainClass": "Strings.StringBuilderExamples",
