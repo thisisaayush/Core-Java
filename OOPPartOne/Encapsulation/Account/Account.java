@@ -1,4 +1,4 @@
-package Encapsulation.Account;
+package OOPPartOne.Encapsulation.Account;
 
 public class Account {
     private String number;

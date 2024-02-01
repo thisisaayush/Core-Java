@@ -1,4 +1,4 @@
-package Inheritance.IntermediateInheritance;
+package OOPPartOne.Inheritance.IntermediateInheritance;
 
 public class Dog extends Animal {
     private String earShape;

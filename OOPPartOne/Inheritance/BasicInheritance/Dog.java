@@ -1,4 +1,4 @@
-package Inheritance.BasicInheritance;
+package OOPPartOne.Inheritance.BasicInheritance;
 
 public class Dog extends Animal {
     public String furColor;

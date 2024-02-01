@@ -1,4 +1,4 @@
-package Inheritance;
+package OOPPartOne.Inheritance;
 
 class SuperClass{
     public void printMethod(){

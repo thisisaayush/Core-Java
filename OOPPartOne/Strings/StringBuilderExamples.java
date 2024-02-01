@@ -1,4 +1,4 @@
-package Strings;
+package OOPPartOne.Strings;
 
 public class StringBuilderExamples {
     public static void main(String[] args) {

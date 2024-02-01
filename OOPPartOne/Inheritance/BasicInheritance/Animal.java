@@ -1,4 +1,4 @@
-package Inheritance.BasicInheritance;
+package OOPPartOne.Inheritance.BasicInheritance;
 
 public class Animal {
     private String type;

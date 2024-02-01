@@ -1,4 +1,4 @@
-package Encapsulation.Account;
+package OOPPartOne.Encapsulation.Account;
 
 public class Main {
     public static void main(String[] args) {
