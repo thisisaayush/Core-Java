@@ -1,4 +1,4 @@
-package OOPPartTwo.Composition;
+package OOPPartOne.Composition;
 
 public class Product {
     private String model;

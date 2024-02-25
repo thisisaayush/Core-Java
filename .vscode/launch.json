@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "BankingSystemDesign.Main",
+            "projectName": "Java_5533332c"
+        },
+        {
+            "type": "java",
             "name": "Polymorphism",
             "request": "launch",
             "mainClass": "Polymorphism",
