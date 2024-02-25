@@ -1,6 +1,7 @@
 package OOPPartOne.Constructors;
 
 public class Account {
+    //attributes
     private String number;
     private double balance;
     private String customerName;
@@ -10,7 +11,7 @@ public class Account {
     public Account() {
         System.out.println("Empty constructor called");
     }
-
+    // initialize objects.
     public Account(String number, double balance, String name, String email, String phoneNumber){
         System.out.println("Account constructor with parameters.");
         this.number = number;
